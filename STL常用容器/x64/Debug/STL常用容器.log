@@ -1,2 +1,3 @@
-﻿  vector容器.cpp
+﻿  STL案例-评委打分.cpp
+D:\cpplearning\STL常用容器\STL常用容器\STL案例-评委打分.cpp(74,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   STL常用容器.vcxproj -> D:\cpplearning\STL常用容器\x64\Debug\STL常用容器.exe
